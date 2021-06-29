@@ -1,4 +1,4 @@
-# maayan121/dataset-emnist
+# maayan121
  
     Python School Project - Handwriting English letter identifier.
     A Deep Learning Computer Program that gets a dataset consists of Handwriting Lowercase English Letters -
